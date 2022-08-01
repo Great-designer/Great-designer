@@ -2,8 +2,10 @@
 
 ### About Myself
 
-* Graduate Student studying chip devices.
-* GitHub is rarely used now for work reasons.
 * Pronouns: He/Him.
-* C++/Java/Python
+* Graduate Student studying chip devices.
+* Undergraduate study experience in software engineering.
+* GitHub is rarely used now for work reasons.
+* C/C++/Java/Python.
 * 2021/2022 Spring Teacher Assistant of BUAAOJ.
+* An editor of OI Wiki.
