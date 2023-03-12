@@ -4,6 +4,6 @@
 
 * Pronouns: He/Him.
 * GitHub is rarely used now for work reasons.
-* C/C++/Java/Python.
+* C/C++/Java/Python/Matlab.
 * 2021/2022 Spring Teacher Assistant of BUAAOJ.
-* An editor of OI Wiki.
+* Once ranked No.1 in BUAAOJ.
