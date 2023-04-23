@@ -2,8 +2,6 @@
 
 ### About Myself
 
-* Pronouns: He/Him.
-* GitHub is rarely used now for work reasons.
 * C/C++/Java/Python/Matlab.
 * 2021/2022 Spring Teacher Assistant of BUAAOJ.
-* Once ranked No.1 in BUAAOJ.
+* Ranked No.1 in BUAAOJ.
