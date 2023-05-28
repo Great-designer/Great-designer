@@ -3,5 +3,9 @@
 ### About Myself
 
 * C/C++/Java/Python/Matlab.
-* 2021/2022 Spring Teacher Assistant of BUAAOJ.
+* Ranked No.1 in 2016 CNMO.
+* Third Prize in 2016 CMO.
+* Second Prize in 2019 BCPC.
 * Ranked No.1 in BUAAOJ.
+* 2021/2022 Spring Teacher Assistant of BUAAOJ.
+* Now researching in quantum, circuit and electromagnetism, so GitHub is rearly used.
