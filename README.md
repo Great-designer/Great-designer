@@ -1,11 +1,14 @@
-## Hello! Here is Great-designer's GitHub page!
+## 你好！这是 Great-designer 的 GitHub 页面！
 
-### About Myself
+### 关于我自己
 
-* C/C++/Java/Python/Matlab.
-* Ranked No.1 in 2016 CNMO.
-* Third Prize in 2016 CMO.
-* Second Prize in 2019 BCPC.
-* Ranked No.1 in BUAAOJ during 2021.8~2023.5.
-* 2021/2022 Spring Teacher Assistant of BUAAOJ.
-* Now researching in quantum, circuit and electromagnetism, so GitHub is rearly used.
+* 主要擅长 C 语言，可以使用 C/C++/Java/Python/Matlab 等编程语言，能维护这些语言书写的一些小型程序。
+* 曾在 2016 年北方数学奥林匹克（CNMO）拿了满分。因为错过了通知，当时没有去闭幕式现场领奖。
+* 曾在 2016 年 CMO 拿了三等奖。由于 11 月的长沙太冷，当时没有去旅游。
+* 曾在 2019 年北航程序设计竞赛（BCPC）拿了二等奖。
+* 曾在 2019 年非数学类大学生数学竞赛拿了一等奖。
+* 曾在 2021 年 8 月至 2023 年 5 月期间位列 BUAAOJ 榜单过题数第一名。当然作为网站建设的一部分，这并不算重要。
+* 曾在 2021 年春季和 2022 年春季做 BUAAOJ 的程序设计课程助教。
+* 不喜欢社交。
+* 目前在学习量子、电路和电磁学以及忙着就业和毕业，所以 GitHub 很少使用。
+
